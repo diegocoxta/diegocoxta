@@ -14,5 +14,6 @@
 - Front-end development using **React, Apollo Client, Styled-Components, VanillaJS.**
 - Backend development using **Node, Express, Adonis, GralphQL and PHP.**
 - Mobile application development using **React Native**
+- Testing software with **Jest, Testing Library, Detox***
 - Project Management using **Jira**
 - and shipping awesome software with **Bitrise, Azure CodePush, Codeship, Drone, AWS Device Farm.**
