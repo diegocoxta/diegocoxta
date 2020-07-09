@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on [Sanar](https://sanarmed.com) as Technical Lead, a startup from Salvador, Brazil.  
 🌱 I’m currently learning mobile testing tools (Detox, Appium, etc.), Flutter and Swift.  
-👯 Co-organizer at [React Salvador](https://react.salvador.br) (A local meetup group talking about react/react-native and javascript). 
+👯 Co-organizer at [React Salvador](https://react.salvador.br) (A local meetup group talking about react/react-native and javascript).   
 😄 Pronouns: He/Him. 
 
 ## ⚡ Currently working with...
