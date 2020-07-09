@@ -10,7 +10,7 @@
 - 👯 Co-organizer at [React Salvador](https://react.salvador.br) (A local meetup group talking about react/react-native and javascript)
 - 😄 Pronouns: He/Him
 
-## ⚡ Technologies
+## ⚡ Currently working with...
 - Front-end development using **React, Apollo Client, Styled-Components, VanillaJS.**
 - Backend development using **Node, Express, Adonis, GralphQL and PHP.**
 - Mobile application development using **React Native**
