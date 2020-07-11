@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego@diegocosta.com.br)](mailto:diego@diegocosta.com.br)
 [![Blog Badge](https://img.shields.io/badge/Blog-blog.diegocosta.com.br-black)](https://blog.diegocosta.com.br)
 
-🔭 I’m currently working on [Sanar](https://sanarmed.com) as Technical Lead, a startup from Salvador, Brazil.  
+🔭 I’m currently working on [Sanar](https://sanarmed.com) as [SanarFlix](https://sanarflix.com.br) Technical Lead, a startup from Salvador, Brazil.  
 🌱 I’m learning mobile testing tools (Detox, Appium, etc.), Flutter and Swift.  
 👯 Co-organizer at [React Salvador](https://react.salvador.br) (A local meetup group talking about react/react-native and javascript).   
 😄 Pronouns: He/Him. 
