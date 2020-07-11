@@ -4,6 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/diegocoxta)](https://twitter.com/diegocoxta)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/diegoscosta)](https://t.me/diegoscosta)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego@diegocosta.com.br)](mailto:diego@diegocosta.com.br)
+[![Blog Badge](https://img.shields.io/badge/Blog-blog.diegocosta.com.br-black)](https://blog.diegocosta.com.br)
 
 🔭 I’m currently working on [Sanar](https://sanarmed.com) as Technical Lead, a startup from Salvador, Brazil.  
 🌱 I’m learning mobile testing tools (Detox, Appium, etc.), Flutter and Swift.  
