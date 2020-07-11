@@ -1,4 +1,4 @@
-# Diego Costa 👨🏿‍💻
+# Diego Costa 👨🏿‍💻 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoscosta/)](https://www.linkedin.com/in/diegoscosta/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/diegocoxta)](https://twitter.com/diegocoxta)
@@ -18,3 +18,5 @@
 - Testing software with **Jest, Testing Library, Detox**
 - Project Management using **Jira**
 - and shipping awesome software with **Bitrise, Azure CodePush, Codeship, Drone, AWS Device Farm.**
+
+[<img src="dcicon.png" width="50" align="right" />](https://diegocosta.com.br)
