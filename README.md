@@ -19,4 +19,4 @@
 - Project Management using **Jira**
 - and shipping awesome software with **Bitrise, Azure CodePush, Codeship, Drone, AWS Device Farm.**
 
-[<img src="dcicon.png" width="50" align="right" />](https://diegocosta.com.br)
+[<img src="https://github.com/diegocosta/diegocosta/blob/master/dcicon.png" width="50" align="right" />](https://diegocosta.com.br)
