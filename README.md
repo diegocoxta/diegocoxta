@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego@diegocosta.com.br)](mailto:diego@diegocosta.com.br)
 [![Blog Badge](https://img.shields.io/badge/Blog-blog.diegocosta.me-black)](https://blog.diegocosta.me)
 [![NPM Badge](https://img.shields.io/badge/-npmjs.com-221F20?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~diegocosta)
-[![Pub.dev Badge](https://img.shields.io/badge/-pub.dev-221F20?style=flat-square&logo=dart&logoColor=blue)](https://pub.dev/publishers/diegocosta.com.br/packages)
+[![Pub.dev Badge](https://img.shields.io/badge/-pub.dev-221F20?style=flat-square&logo=dart&logoColor=blue)](https://pub.dev/publishers/diegocosta.me/packages)
 
 🔭 I’m currently working on [Sanar](https://sanarmed.com) as [SanarFlix](https://sanarflix.com.br) Technical Lead, a startup from Salvador, Brazil.  
 🌱 I’m learning mobile testing tools (Detox, Appium, etc.), Flutter and Swift.  
