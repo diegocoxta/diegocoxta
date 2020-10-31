@@ -8,7 +8,7 @@
 [![NPM Badge](https://img.shields.io/badge/-npmjs.com-221F20?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~diegocosta)
 [![Pub.dev Badge](https://img.shields.io/badge/-pub.dev-221F20?style=flat-square&logo=dart&logoColor=blue)](https://pub.dev/publishers/diegocosta.me/packages)
 
-🔭 I’m currently working on [Sanar](https://sanarmed.com) as [SanarFlix](https://sanarflix.com.br) Technical Lead, a startup from Salvador, Brazil.  
+🔭 I’m currently working at [Sanar](https://sanarmed.com) as [SanarFlix](https://sanarflix.com.br) Technical Lead, a startup from Salvador, Brazil.  
 🌱 I’m learning mobile testing tools (Detox, Appium, etc.), Flutter and Swift.  
 👯 Co-organizer at [React Salvador](https://react.salvador.br) (A local meetup group talking about react/react-native and javascript).   
 😄 Pronouns: Him/His. 
