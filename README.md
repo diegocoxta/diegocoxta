@@ -4,11 +4,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/diegocoxta)](https://twitter.com/diegocoxta)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/diegoscosta)](https://t.me/diegoscosta)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego@diegocosta.com.br)](mailto:diego@diegocosta.com.br)
-[![Blog Badge](https://img.shields.io/badge/Blog-blog.diegocosta.me-black)](https://blog.diegocosta.me)
+[![Blog Badge](https://img.shields.io/badge/Blog-diegocosta.me-black)](https://diegocosta.me)
 [![NPM Badge](https://img.shields.io/badge/-npmjs.com-221F20?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~diegocosta)
 [![Pub.dev Badge](https://img.shields.io/badge/-pub.dev-221F20?style=flat-square&logo=dart&logoColor=blue)](https://pub.dev/publishers/diegocosta.me/packages)
 
-🔭 I’m currently working at [Sanar](https://sanarmed.com) as [SanarFlix](https://sanarflix.com.br) Technical Lead, a startup from Salvador, Brazil.  
+🔭 I’m currently working at [Suno](https://sunoresearch.com.br) as Mobile Chapter Lead.  
 🌱 I’m learning mobile testing tools (Detox, Appium, etc.), Flutter and Swift.  
 👯 Co-organizer at [React Salvador](https://react.salvador.br) (A local meetup group talking about react/react-native and javascript).   
 😄 Pronouns: Him/His. 
