@@ -10,7 +10,7 @@
 
 🔭 I’m currently working at [Suno](https://sunoresearch.com.br) as Mobile Chapter Lead.  
 🌱 I’m learning mobile testing tools (Detox, Appium, etc.), Flutter and Swift.  
-👯 Co-organizer at [React Salvador](https://react.salvador.br) (A local meetup group talking about react/react-native and javascript).   
+👯 Co-organizer at [React Salvador](https://react.salvador.br) (A local meetup about react ecosystem).   
 😄 Pronouns: Him/His. 
 
 ## ⚡ Currently working with...
