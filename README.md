@@ -8,17 +8,8 @@
 [![NPM Badge](https://img.shields.io/badge/-npmjs.com-221F20?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~diegocosta)
 [![Pub.dev Badge](https://img.shields.io/badge/-pub.dev-221F20?style=flat-square&logo=dart&logoColor=blue)](https://pub.dev/publishers/diegocosta.me/packages)
 
-🔭 I’m currently working at [Suno](https://sunoresearch.com.br) as Mobile Chapter Lead.  
-🌱 I’m learning mobile testing tools (Detox, Appium, etc.), Flutter and Swift.  
+🔭 I’m currently working at [NuBank](https://nubank.com.br) as Engineering Tech Manager.  
 👯 Co-organizer at [React Salvador](https://react.salvador.br) (A local meetup about react ecosystem).   
-😄 Pronouns: Him/His. 
-
-## ⚡ Currently working with...
-- Front-end development using **React, Apollo Client, Styled-Components, VanillaJS.**
-- Backend development using **Node, Express, Adonis, GralphQL and PHP.**
-- Mobile application development using **React Native**
-- Testing software with **Jest, Testing Library, Detox**
-- Project Management using **Jira**
-- and shipping awesome software with **Bitrise, Azure CodePush, Codeship, Drone, AWS Device Farm.**
+😄🏳️‍🌈 Pronouns: Him/His. 
 
 [<img src="https://github.com/diegocosta/diegocosta/blob/master/dcicon.png" width="50" align="right" />](https://diegocosta.com.br)
