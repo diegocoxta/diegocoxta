@@ -8,8 +8,4 @@
 [![NPM Badge](https://img.shields.io/badge/-npmjs.com-221F20?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~diegocosta)
 [![Pub.dev Badge](https://img.shields.io/badge/-pub.dev-221F20?style=flat-square&logo=dart&logoColor=blue)](https://pub.dev/publishers/diegocosta.me/packages)
 
-🔭 I’m currently working at [NuBank](https://nubank.com.br) as Engineering Tech Manager.  
-👯 Co-organizer at [React Salvador](https://react.salvador.br) (A local meetup about react ecosystem).   
-😄🏳️‍🌈 Pronouns: Him/His. 
-
 [<img src="https://github.com/diegocosta/diegocosta/blob/master/dcicon.png" width="50" align="right" />](https://diegocosta.com.br)
