@@ -1,11 +1,11 @@
 # Diego Costa 👨🏿‍💻 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoscosta/)](https://www.linkedin.com/in/diegoscosta/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/diegocoxta)](https://twitter.com/diegocoxta)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/diegoscosta)](https://t.me/diegoscosta)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego@diegocosta.com.br)](mailto:diego@diegocosta.com.br)
-[![Blog Badge](https://img.shields.io/badge/Blog-diegocosta.me-black)](https://diegocosta.me)
-[![NPM Badge](https://img.shields.io/badge/-npmjs.com-221F20?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~diegocosta)
-[![Pub.dev Badge](https://img.shields.io/badge/-pub.dev-221F20?style=flat-square&logo=dart&logoColor=blue)](https://pub.dev/publishers/diegocosta.me/packages)
+A passionate tech manager who loves the intersection of computers and people, I spend my days  trying to help tech teams deliver their max potential.
+
+Currently at [Nubank](https://nu.bank), I am working to simplify our users' relationship with their financial lives by providing a simple but powerful mobile experience.
+
+You can hear more about here:
+
+[linkedIn](https://www.linkedin.com/in/diegoscosta/) • [blog](https://diegocosta.me) • [slides](https://slides.com/diegocosta) • [e-mail](mailto:diego@diegocosta.com.br)
 
 [<img src="https://github.com/diegocosta/diegocosta/blob/master/dcicon.png" width="50" align="right" />](https://diegocosta.com.br)
