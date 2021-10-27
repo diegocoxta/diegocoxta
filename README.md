@@ -6,5 +6,5 @@ Currently at [Nubank](https://nu.bank), I am working to simplify our users' rela
 
 You can hear more about here:
 
-[linkedIn](https://www.linkedin.com/in/diegoscosta/) • [blog](https://diegocosta.me) • [slides](https://slides.com/diegocosta)
+[linkedIn](https://www.linkedin.com/in/diegoscosta/) • [blog](https://diegocosta.me) • [twitter](https://twitter.com/diegocoxta) • [slides](https://slides.com/diegocosta)
 
