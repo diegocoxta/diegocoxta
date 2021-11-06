@@ -6,5 +6,4 @@ Currently at [Nubank](https://nu.bank), I am working to simplify our users' rela
 
 You can hear more about me here:
 
-[linkedIn](https://www.linkedin.com/in/diegoscosta/) • [blog](https://diegocosta.me) • [twitter](https://twitter.com/diegocoxta) • [talks](https://diegocosta.me/en/talks)
-
+[linkedIn](https://www.linkedin.com/in/diegoscosta/) • [blog](https://diegocosta.me) • [twitter](https://twitter.com/diegocoxta)
