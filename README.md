@@ -1,9 +1,13 @@
-#  Diego Costa 👨🏿‍💻  [<img src="https://github.com/diegocoxta/diegocoxta/blob/master/dcicon.png" width="50" align="right" />](https://diegocosta.com.br)
+#  Hey all, Diego here.  [<img src="https://github.com/diegocoxta/diegocoxta/blob/master/dcicon.png" width="50" align="right" />](https://diegocosta.com.br)
 
-I’m a tech manager who loves the intersection of computers and people, I spend my days trying to help tech teams deliver their max potential.
+I’m an engineering manager who loves the intersection of computers and people, I spend my days trying to help tech teams deliver their max potential.
 
-Currently at [Nubank](https://github.com/nubank), I am working to simplify our users' relationship with their financial lives by providing a simple but powerful mobile experience.
+- 😄  My pronouns: He/Him.  
+- 👨🏿‍💻  I’m currently working as Engineering Manager at [@nubank](https://github.com/nubank).  
+- 🌱  I’m currently learning Clojure and it's ecosystem.  
+- 💬  Ask me about tech stuff or people management.  
+- 🔨  My fluent tech stack is Javascript-based, including React, React Native, and Node, but, I love to learn new things.  
 
-You can hear more about me here:
+...and you can hear more about me in the links below:
 
-[linkedIn](https://www.linkedin.com/in/diegoscosta/) • [blog](https://diegocosta.me) • [twitter](https://twitter.com/diegocoxta) • [mastodon](https://mastodon.social/@diegocoxta)
+[linkedIn](https://www.linkedin.com/in/diegocoxta/) • [blog](https://diegocosta.me) • [twitter](https://twitter.com/diegocoxta) • [mastodon](https://mastodon.social/@diegocoxta)
