@@ -11,3 +11,7 @@ I’m an engineering manager who loves the intersection of computers and people,
 ...and you can hear more about me in the links below:
 
 [linkedIn](https://www.linkedin.com/in/diegocoxta/) • [blog](https://diegocosta.me) • [twitter](https://twitter.com/diegocoxta) • [mastodon](https://mastodon.social/@diegocoxta)
+
+---
+
+#️ Engineering Leadership, People Management, Software Engineering, and D&I. My code are my own.
