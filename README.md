@@ -6,7 +6,7 @@ I’m an engineering manager who loves the intersection of computers and people,
 - 👨🏿‍💻  I’m currently working as Engineering Manager at [@nubank](https://github.com/nubank).  
 - 🌱  I’m currently learning Clojure and it's ecosystem.  
 - 💬  Ask me about tech stuff or people management.  
-- 🔨  My fluent tech stack is Javascript-based, including React, React Native, and Node, but, I love to learn new things.  
+- 🔨  My fluent tech stack is Javascript-based, including React, React Native, Gatsby and Node, but, I love to learn new things.  
 
 ...and you can hear more about me in the links below:
 
