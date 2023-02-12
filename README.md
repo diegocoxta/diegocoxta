@@ -4,7 +4,7 @@ I’m an engineering manager who loves the intersection of computers and people,
 
 - 😄  My pronouns: He/Him.  
 - 👨🏿‍💻  I’m currently working as Engineering Manager at [@nubank](https://github.com/nubank).  
-- 🌱  I’m currently learning Clojure and it's ecosystem.  
+- 🌱  I’m currently learning Clojure and its ecosystem.  
 - 💬  Ask me about tech stuff or people management.  
 - 🔨  My fluent tech stack is Javascript-based, including React, React Native, Gatsby and Node, but, I love to learn new things.  
 
