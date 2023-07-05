@@ -1,4 +1,4 @@
-#  Hey all, Diego here.  [<img src="https://github.com/diegocoxta/diegocoxta/blob/main/icon.png" width="50" align="right" />](https://diegocosta.me)
+#  Hey all, Diego here.  [<img src="https://github.com/diegocoxta/diegocoxta/blob/main/dc.png" width="50" align="right" />](https://diegocosta.me)
 
 I'm a Engineering Manager passionate about the intersection between technology and people. My goal is to help technology teams achieve their full potential.
 
