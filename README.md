@@ -6,6 +6,6 @@ I have a great interest in engineering leadership, people management, software e
 
 Currently, I'm studying distributed systems concepts, Mandarim, improving my English, and learning to play bass.
 
-[linkedIn](https://www.linkedin.com/in/diegocoxta/) • [blog](https://diegocosta.me) • [twitter](https://twitter.com/diegocoxta) • [mastodon](https://mastodon.social/@diegocoxta)
+[linkedIn](https://www.linkedin.com/in/diegocoxta/) • [blog](https://diegocosta.me) • [mastodon](https://mastodon.social/@diegocoxta)
 
 
